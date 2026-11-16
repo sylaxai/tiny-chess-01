@@ -1,0 +1,6 @@
+kit.tar.gz
+tiny-chess-01-kit/
+src/
+tests/
+__pycache__/
+*.pyc
